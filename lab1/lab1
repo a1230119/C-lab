@@ -1,0 +1,21 @@
+Script started on 廿十八年三月廿日 (週二) 十時37分十六秒
+]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ whoami; pwd
+pd2vm
+/home/pd2vm/lab1
+]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ git congi[K[K[Knfig -l
+user.email=c14031081@mail.ncku.edu.tw
+user.name=吳宜珈
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@pd2b.imslab.org:C14031081/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ git clone git@pd2b.imslab.org:C1403 1081/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ exit
+
+Script done on 廿十八年三月廿日 (週二) 十時38分十五秒

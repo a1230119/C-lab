@@ -1,0 +1,11 @@
+Script started on 廿十八年三月廿日 (週二) 十時43分35秒
+]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ git clone git@pd2b.imslab.org:C140311081/lab1.git[A]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ [C[C[C[C[Config -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwhoami; pwdgit clone fit@pd2b.imslab.org:C140311081/running.git[A]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ whoami; pwd[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config -llone git@pd2b.imslab.org:C140311081/lab1.git[A]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg++ -o lab1.exe lab1.cpp
+]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ ./lab1.exe
+Please enter a number: 22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+]0;pd2vm@pd2-vbox: ~/lab1[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab1[00m$ exit
+
+Script done on 廿十八年三月廿日 (週二) 十時44分五秒
